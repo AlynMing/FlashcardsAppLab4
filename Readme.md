@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-Simple Flashcard App!
+My simple Flashcard App!
 
 ### App Walk-though
 <img src="https://www.loom.com/share/81651d75591c46feacf60210ed91d01e" width=200><br>
