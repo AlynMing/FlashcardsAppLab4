@@ -6,8 +6,7 @@
 My simple Flashcard App!
 
 ### App Walk-though
-<img src="<div style="position: relative; padding-bottom: 198.34710743801654%; height: 0;"><iframe src="https://www.loom.com/embed/81651d75591c46feacf60210ed91d01e" 
-https://ezgif.com/gif-to-mp4/ezgif-3-9cc5ff4d451e.gif" width=200><br>
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/14878818/76799884-cf66aa00-67a8-11ea-9a87-65b4a03399f7.gif)
 
 ## Required
 - [x] Create New Project in Xcode
