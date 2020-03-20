@@ -6,7 +6,7 @@
 My simple Flashcard App!
 
 ### App Walk-though
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/14878818/76799884-cf66aa00-67a8-11ea-9a87-65b4a03399f7.gif)
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/14878818/77132481-069dbb00-6a36-11ea-8a74-7cd9283f256c.gif)
 
 ## Required
 - [x] Create New Project in Xcode
