@@ -90,7 +90,7 @@ class ViewController: UIViewController {
             updateNextPrevButtons()
         }
     }
-}
+
     @IBAction func didTapOnFlashcard(_ sender: Any) {
         flipFlashcard()
     }
@@ -196,8 +196,9 @@ class ViewController: UIViewController {
         if segue.identifier == "EditSegue" {
         creationController.initialQuestion = frontLabel.text
         creationController.initialAnswer = backLabel.text
+            //random comment
     }
 
+    }
 }
-}
-}
+
