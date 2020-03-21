@@ -13,6 +13,7 @@
 		35E8E5262400A64B0020E933 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35E8E5242400A64B0020E933 /* Main.storyboard */; };
 		35E8E5282400A6510020E933 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35E8E5272400A6510020E933 /* Assets.xcassets */; };
 		35E8E52B2400A6510020E933 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35E8E5292400A6510020E933 /* LaunchScreen.storyboard */; };
+		35E8E533241C8B7E0020E933 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E8E532241C8B7E0020E933 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		35E8E5272400A6510020E933 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35E8E52A2400A6510020E933 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35E8E52C2400A6510020E933 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35E8E532241C8B7E0020E933 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CreationViewController.swift; path = FlashcardsLab2/CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				35E8E5202400A64B0020E933 /* SceneDelegate.swift */,
 				35E8E5222400A64B0020E933 /* ViewController.swift */,
 				35E8E5242400A64B0020E933 /* Main.storyboard */,
+				35E8E532241C8B7E0020E933 /* CreationViewController.swift */,
 				35E8E5272400A6510020E933 /* Assets.xcassets */,
 				35E8E5292400A6510020E933 /* LaunchScreen.storyboard */,
 				35E8E52C2400A6510020E933 /* Info.plist */,
@@ -141,6 +144,7 @@
 				35E8E5232400A64B0020E933 /* ViewController.swift in Sources */,
 				35E8E51F2400A64B0020E933 /* AppDelegate.swift in Sources */,
 				35E8E5212400A64B0020E933 /* SceneDelegate.swift in Sources */,
+				35E8E533241C8B7E0020E933 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
