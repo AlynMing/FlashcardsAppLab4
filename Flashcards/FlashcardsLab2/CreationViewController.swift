@@ -23,13 +23,13 @@ class CreationViewController: UIViewController {
     
     var initialQuestion: String?
     var initialAnswer: String?
-
+    var isExisting = false
+  
     override func viewDidLoad() {
         super.viewDidLoad()
         
         questionTextField.text = initialQuestion
         answerTextField.text = initialAnswer
-
     }
     
     @IBAction func didTapOnCancel(_ sender: Any) {
@@ -42,16 +42,17 @@ class CreationViewController: UIViewController {
         let answerText = answerTextField.text
         let alert = UIAlertController(title: "Missing Text", message: "You need to enter both a question and an answer",
             preferredStyle: .alert)
-                
+        if initialQuestion != nil {
+            isExisting = true
+        }
         if (questionText == nil || answerText == nil || questionText!.isEmpty || answerText!.isEmpty){
             present(alert, animated: true)
-        }else {
-            flashcardsController.updateFlashcard(question: questionText!, answer: answerText!, extraAnswerOne: extraAnswerOneText, extraAnswerTwo: extraAnswerTwoText)
+        } else {
+            flashcardsController.updateFlashcard(question: questionText!, answer: answerText!, extraAnswerOne: extraAnswerOneText, extraAnswerTwo: extraAnswerTwoText, isExisting: false)
             present(alert, animated: true)
             }
 
-            let okAction = UIAlertAction(title: "Ok!", style: .default)
+        let okAction = UIAlertAction(title: "Ok!", style: .default)
             alert.addAction(okAction)
-
         }
     }
