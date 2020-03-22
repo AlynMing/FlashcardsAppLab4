@@ -23,7 +23,7 @@
 ## LAB 3
 
 ### App Description
- Completed all of the required steps for the third (3rd) lab.
+ Completed all of the required & optional steps for the third (3rd) lab.
 
 ### App Walk-though
 ![ezgif com-video-to-giflab3](https://user-images.githubusercontent.com/14878818/77132813-18339280-6a37-11ea-8813-dee78135924d.gif)
@@ -33,9 +33,9 @@
 - [x] User can re-open the app and see previously created flashcards
 - [x] Push code to GitHub
 ## Optional
-- [ ] User can delete a flashcard
-- [ ] User can edit existing flashcard
-- [ ] User can store multiple choice questions
+- [x] User can delete a flashcard
+- [x] User can edit existing flashcard
+- [x] User can store multiple choice questions
 
 ## LAB 2
 
