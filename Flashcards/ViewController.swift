@@ -157,7 +157,7 @@ class ViewController: UIViewController {
               } else {
                   flashcards.append(flashcard)
               }
-    // Logging to the console
+    // Logging to console
         print("Added new flashcard")
         print("We now have \(flashcards.count) flashcards")
     // Update current index
