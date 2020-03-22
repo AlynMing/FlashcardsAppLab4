@@ -48,7 +48,7 @@ class ViewController: UIViewController {
     @IBAction func didTapOnPrev(_ sender: Any) {
         currentIndex = currentIndex - 1
         updateNextPrevButtons()
-        animateCardOut() 
+        animateCardOut() //comment
     }
     
     @IBAction func didTapOnNext(_ sender: Any) {
