@@ -31,6 +31,7 @@ class ViewController: UIViewController {
     var flashcards = [Flashcard]()
     
     var currentIndex = 0
+    //^^current index comment
     
     @IBAction func didTapOptionOne(_ sender: Any) {
         btnOptionOne.isHidden = true
