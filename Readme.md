@@ -6,7 +6,7 @@
  Completed all of the required & optional steps for the fourth/ last (4th) lab.
 
 ### App Walk-though
-![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/14878818/77270952-b7e56080-6c83-11ea-9559-fe97107970ce.gif)
+![ezgif com-video-to-gif (8)](https://user-images.githubusercontent.com/14878818/77495211-4e4d8980-6e1e-11ea-94a3-17b6d3204aff.gif)
 
 ## Required
 - [x] User should see the app icon 
